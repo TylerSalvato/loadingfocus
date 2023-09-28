@@ -6,7 +6,14 @@ function GlobalState(props){
     const [cart, setCart]= useState([]);
     const [user, setUser]= useState({ id:1234, name: 'Tyler' });
 
-    function addProductToCart(){
+    function addProductToCart(prod){
+        //Modify and State Object or State Array
+        //create a copy
+        let copy = [...cart];
+        //modify the copy
+        copy.push(prod);
+        //set the copy back
+        setCart(copy);
         console.log("global add");
     }
 
