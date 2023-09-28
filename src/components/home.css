@@ -1,0 +1,20 @@
+
+
+.home{
+    padding: 40px 20px;
+    background-color: orange;
+
+}
+
+.home h1 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: brown;
+}
+
+.home h4 {
+    font-size: 20px;
+    color: brown;
+    
+}
+

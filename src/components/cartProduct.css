@@ -1,0 +1,45 @@
+
+.cart-product {
+    border: 1px solid cacbcc;
+    border-radius: 4px;
+    height: 80px;
+    width: 100%;
+
+    display: flex;
+    margin-bottom: 10px 20px 0 20px;
+    background-color: aqua;
+    padding: 5px 10px;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+
+.cart-product img {
+    height: 70px;
+    width: 60px;
+    margin-right: 10px;
+
+}
+
+.cart-product .info {
+    flex: 5;
+    text-align: left;
+
+}
+
+.cart-product .info p {
+    margin: 0;
+
+}
+
+.cart-product label {
+    flex: 1;
+
+} 
+
+.car-product .total { 
+    font-weight: bold;
+    font-size: 16px;
+    color: blueviolet;
+}
+

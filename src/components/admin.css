@@ -1,0 +1,50 @@
+
+
+.admin{
+    padding: 40px 20px;
+    background-color: rgb(224, 179, 179);
+
+}
+
+.admin h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: rgb(89, 42, 165);
+}
+
+.admin h4 {
+    font-size: 20px;
+    color: rgb(108, 42, 165);
+    
+}
+
+.admin .forms-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 30px;
+
+
+}
+
+.admin .form {
+    flex: 1;
+    max-width: 400px;
+    border: 1px solid red;
+    padding: 15px 10px;
+    border-radius: 4px;
+    text-align: left;
+    background-color: white;
+
+
+}
+
+.admin .form div {
+    margin-bottom: 10px;
+
+}
+
+.admin .form h3 {
+    color: green;
+    text-align: center;
+}

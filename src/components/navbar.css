@@ -1,0 +1,21 @@
+.navbar {
+    background-color: yellow;
+    color:brown;
+    border: 1px solid bisque;
+}
+
+.navbar .user-info{
+    display: flex;
+    flex-direction: column;
+    color: rgb(6, 58, 41);
+    margin-right: 10px;
+    border: 1px solid #420404;
+    border-radius: 4px;
+    padding: 2px 5px 0 5px;
+}
+
+.navbar .user-ino .i{
+    font-size: 20px;
+    color: brown;
+
+}

@@ -1,0 +1,24 @@
+
+
+.cart{
+    padding: 40px 20px;
+    background-color: green;
+
+}
+
+.cart h1 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: blue;
+}
+
+.cart h3 {
+    font-size: 20px;
+    color: blue;
+    
+}
+
+.cart .prod-list {
+    max-width: 800px;
+    
+}
