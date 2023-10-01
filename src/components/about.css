@@ -1,19 +1,19 @@
 
 
 .about{
-    background-color: rgb(175, 196, 175);
+    background-color: rgb(229, 147, 16);
     border: 1px solid #333;
 }
 
 .about h3 {
     margin-top: 20px;
     margin-bottom: 5px;
-    color: darkcyan;
+    color: rgb(107, 78, 33);
 }
 
 .about h5 {
     font-size: 20px;
-    color: #6a6a6a;
+    color: #784c1d;
     
 }
 

@@ -2,7 +2,7 @@
 
 .admin{
     padding: 40px 20px;
-    background-color: rgb(224, 179, 179);
+    background-color: rgb(208, 111, 26);
 
 }
 
@@ -10,12 +10,12 @@
     text-align: center;
     margin-top: 20px;
     margin-bottom: 5px;
-    color: rgb(89, 42, 165);
+    color: rgb(128, 81, 35);
 }
 
 .admin h4 {
     font-size: 20px;
-    color: rgb(108, 42, 165);
+    color: rgb(123, 83, 35);
     
 }
 
@@ -30,11 +30,11 @@
 .admin .form {
     flex: 1;
     max-width: 400px;
-    border: 1px solid red;
+    border: 1px solid rgb(131, 75, 32);
     padding: 15px 10px;
     border-radius: 4px;
     text-align: left;
-    background-color: white;
+    background-color: rgb(240, 149, 31);
 
 
 }
@@ -45,6 +45,6 @@
 }
 
 .admin .form h3 {
-    color: green;
+    color: rgb(120, 84, 30);
     text-align: center;
 }
