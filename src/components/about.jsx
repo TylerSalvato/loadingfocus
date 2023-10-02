@@ -8,6 +8,7 @@ function About() {
             <hr />
             <h5>Cakes by:</h5>
             <h1>Tyler Salvato</h1>
+            <img src="/images/baker.jpeg" alt="baker" />
         </div>
     );
 }
