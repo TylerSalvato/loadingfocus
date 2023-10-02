@@ -25,9 +25,9 @@ function QuantityPicker(props){
     return(
         <div className="qt-Picker">
             {/* please create 2 buttons and a label to render the + and - symbol and use the component in the app.js */}
-            <button className="btn btn-sm btn--outline-dark" disabled={quantity===1} onClick={decrease}> - </button>
+            <button className="btn btn-sm btn-dark" disabled={quantity===1} onClick={decrease}> - </button>
             <label>{quantity}</label>
-            <button className="btn btn-sm btn-outline-dark" onClick={increase}> + </button>
+            <button className="btn btn-sm btn-dark" onClick={increase}> + </button>
             
         </div>
     )

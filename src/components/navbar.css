@@ -1,5 +1,5 @@
 .navbar {
-    background-color: rgb(230, 144, 15);
+    background-color: orange;
     color:brown;
     border: 1px solid bisque;
 }
@@ -7,14 +7,14 @@
 .navbar .user-info{
     display: flex;
     flex-direction: column;
-    color: rgb(122, 92, 30);
+    color: brown;
     margin-right: 10px;
     border: 1px solid #420404;
     border-radius: 4px;
     padding: 2px 5px 0 5px;
 }
 
-.navbar .user-ino .i{
+.navbar .user-info .i{
     font-size: 20px;
     color: brown;
 

@@ -9,7 +9,7 @@ function Cart() {
 
 
     return  (
-        <div className='cart'>
+        <div className='cart page'>
             <h1>Pay here to checkout</h1>
             <h3>You have {cart.length} products in your basket</h3>
 

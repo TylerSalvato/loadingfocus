@@ -1,12 +1,12 @@
-
+import './footer.css'
 
 function Footer()
 {
     return (
-        <div>
+        <div className= "footer">
             <label>LoadingFocus is still processing!</label>
         </div>
-    )
+    );
 
 }
 

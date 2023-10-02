@@ -2,19 +2,19 @@
 
 .cart{
     padding: 40px 20px;
-    background-color: rgb(223, 118, 20);
+    background-color: brown;
 
 }
 
 .cart h1 {
     margin-top: 20px;
     margin-bottom: 5px;
-    color: rgb(131, 88, 36);
+    color: orange;
 }
 
 .cart h3 {
     font-size: 20px;
-    color: rgb(133, 81, 33);
+    color: orange;
     
 }
 

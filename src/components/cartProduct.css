@@ -1,16 +1,18 @@
 
 .cart-product {
-    border: 1px solid cacbcc;
+    border: 1px solid bisque;
     border-radius: 4px;
     height: 80px;
     width: 100%;
+    margin-bottom: 10px;
 
     display: flex;
     margin-bottom: 10px 20px 0 20px;
-    background-color: rgb(229, 150, 15);
+    background-color: orange;
     padding: 5px 10px;
     align-items: center;
     justify-content: flex-start;
+    
 
 }
 
@@ -40,6 +42,6 @@
 .car-product .total { 
     font-weight: bold;
     font-size: 16px;
-    color: blueviolet;
+    color: green;
 }
 

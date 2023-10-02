@@ -2,7 +2,7 @@
 
 .admin{
     padding: 40px 20px;
-    background-color: rgb(208, 111, 26);
+    
 
 }
 
@@ -10,12 +10,12 @@
     text-align: center;
     margin-top: 20px;
     margin-bottom: 5px;
-    color: rgb(128, 81, 35);
+    color: orange;
 }
 
 .admin h4 {
     font-size: 20px;
-    color: rgb(123, 83, 35);
+    color: orange;
     
 }
 
@@ -34,7 +34,7 @@
     padding: 15px 10px;
     border-radius: 4px;
     text-align: left;
-    background-color: rgb(240, 149, 31);
+    background-color: orange;
 
 
 }
@@ -45,6 +45,6 @@
 }
 
 .admin .form h3 {
-    color: rgb(120, 84, 30);
+    color: brown;
     text-align: center;
 }

@@ -54,13 +54,13 @@ function Catalog(props){
     }
 
     return(
-        <div className="catalog">
+        <div className="catalog page">
             {/*please create buttons using the categories state variable */}
             <h1>Check out our {products.length} products</h1>
             <br />
             <button onClick={clearFilter} className="btn btn-sm btn-dark btn-filter">All</button>
             <br />
-            {categories.map(c => <button key={c} onClick={() => filter(c)} className='btn btn-sm btn-primary btn-filter'>{c}</button> )}
+            {categories.map(c => <button key={c} onClick={() => filter(c)} className='btn btn-sm btn-light btn-filter'>{c}</button> )}
             <br />
             {prodsDisplay.map(d => <Product key={d._id} data={d}/>)}
             <br />
