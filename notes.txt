@@ -51,4 +51,4 @@ git push
 
 stop server before commit
 
-
+npm install -s axios

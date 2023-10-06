@@ -40,7 +40,7 @@ function Product(props){
             <h5> {props.data.title} </h5>
 
             <div className='prices'>
-            <label className="price"> ${props.data.price.toFixed(2)} </label>
+            <label className="price"> ${parseFloat(props.data.price).toFixed(2)} </label>
             <label className="total"> ${getTotal()} </label>
             </div>
 
