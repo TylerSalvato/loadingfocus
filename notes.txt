@@ -52,3 +52,10 @@ git push
 stop server before commit
 
 npm install -s axios
+
+pwd (print working directory)
+
+mkdir (make directory)
+
+~ (home directory)
+
